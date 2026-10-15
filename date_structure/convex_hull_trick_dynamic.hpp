@@ -1,4 +1,3 @@
-#include<bits/stdc++.h>
 template<typename T=long double,class comp=std::less<T>>
 struct convex_hull_trick_dynamic{
     // max

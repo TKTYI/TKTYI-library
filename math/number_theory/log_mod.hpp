@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/number_theory/log_mod.hpp
 ll log_mod(ll a,ll b,ll m){
     assert(m>0);
     a%=m;b%=m;

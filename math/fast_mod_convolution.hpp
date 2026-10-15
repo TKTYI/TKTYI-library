@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/fast_mod_convolution.hpp
 // depend on ACL
 vi fast_mod_convolution(vi&a,vi&b,ll mod){
     const ll m1=167772161,m2=469762049,m3=1224736769;

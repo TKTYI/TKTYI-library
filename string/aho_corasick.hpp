@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/string/aho_corasick.hpp
 struct aho_corasick{
     vector<int>parent,position,failure,nextNode;
     vector<map<char,int>>children;

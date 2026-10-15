@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/graph/low_link.hpp
 struct low_link{
     private:
     size_t N;

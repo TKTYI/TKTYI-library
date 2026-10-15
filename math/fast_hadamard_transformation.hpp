@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/fast_hadamard_transformation.hpp
 template<typename T>
 void fast_hadamard_transformation(vector<T>&A){
     int h=1,n=0;

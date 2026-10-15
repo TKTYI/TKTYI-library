@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/fft/relaxed_convolution.hpp
 template<typename mint>
 struct relaxed_convolution{
   vector<mint>F,G,H;

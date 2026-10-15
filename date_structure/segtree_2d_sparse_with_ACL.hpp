@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/date_structure/segtree_2d_sparse_with_ACL.hpp
 template<class S,auto op,auto e>
 struct segtree_2d_sparse_with_ACL{
     private:

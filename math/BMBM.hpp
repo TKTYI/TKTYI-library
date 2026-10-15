@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/BMBM.hpp
 template<typename T>
 vector<T>BMBM(vector<T>&A,int L){
   assert(A.size()>=2*L);

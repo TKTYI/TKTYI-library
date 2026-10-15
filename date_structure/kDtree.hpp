@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/date_structure/kDtree.hpp
 template<typename T>
 struct kDTree{
   struct node{

@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/graph/max_flow.hpp
 // Dinic's algorithm O(N^2M)
 template<typename T>
 struct max_flow{

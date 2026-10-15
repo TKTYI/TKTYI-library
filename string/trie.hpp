@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/string/trie.hpp
 struct trie{
     vector<int>parent,position;
     vector<map<char,int>>children;

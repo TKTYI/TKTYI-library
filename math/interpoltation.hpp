@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/interpoltation.hpp
 T interpolation(vector<T>&X,vector<T>&Y,T x){
 	assert(X.size()==Y.size());
 	int N=X.size();

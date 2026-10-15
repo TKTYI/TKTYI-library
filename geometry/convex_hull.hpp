@@ -1,4 +1,4 @@
-
+// https://github.com/TKTYI/TKTYI-library/blob/main/geometry/convex_hull.hpp
 template<typename T>
 vector<pair<T,T>>convex_hull(vector<pair<T,T>>P){
     sort(P.begin(),P.end());

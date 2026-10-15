@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/date_structure/lazy_segtree.hpp
 template<class S,S(*op)(S,S),S(*e)(),class T,S(*mapping)(T,S),T(*composition)(T,T),T(*id)()>
 struct lazy_segtree{
     private:

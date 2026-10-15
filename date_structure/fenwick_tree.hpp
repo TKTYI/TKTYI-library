@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/date_structure/fenwick_tree.hpp
 template<typename T>
 struct fenwick_tree{
     private:

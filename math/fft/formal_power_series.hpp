@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/fft/fast_mod_convolution.hpp
 // depend on ACL
 template<typename T>
 struct formal_power_series{

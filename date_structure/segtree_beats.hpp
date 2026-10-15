@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/date_structure/segtree_beats.hpp
 // 誰か整備してくれ
 void solve(ll N,ll M,ll K,vl W,vl L,vl R){
     ll S=reduce(all(W));

@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/geometry/kDTree.hpp
 template<typename T>
 struct kDTree{
     using Iter=vector<pair<pair<T,T>,int>>::iterator;

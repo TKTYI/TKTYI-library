@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/number_theory/sqrt_mod.hpp
 int sqrt_mod(int a,int p){
     a%=p;
     if(a<0)a+=p;

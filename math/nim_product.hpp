@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/nim_product.hpp
 vector<vector<int>>small_nim_product(256,vector<int>(256));
 void init(){
   for(int i=1;i<256;i++)small_nim_product[1][i]=small_nim_product[i][1]=i;

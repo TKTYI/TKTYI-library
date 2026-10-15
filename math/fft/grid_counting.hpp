@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/fft/grid_counting.hpp
 template<typename mint>
 mint grid_counting(vector<bool>S){
     int N=S.size();

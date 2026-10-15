@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/geometry/dist.hpp
 template<typename T>
 long double dist(T x1,T y1,T x2,T y2){
     return sqrtl((x1-x2)*(x1-x2)+(y1-y2)*(y1-y2));

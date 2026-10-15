@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/number_theory/primitive_root.hpp
 typedef long long ll;
 ll pow_mod(ll _a,ll b,ll m){
     __int128 res=1,a=_a%m;

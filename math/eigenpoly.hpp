@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/eigenpoly.hpp
 template<typename T>
 vector<T>eigenpoly(vector<vector<T>>A){
     int N=A.size();

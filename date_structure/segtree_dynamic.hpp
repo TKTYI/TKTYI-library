@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/date_structure/segtree_dynamic.hpp
 template<class S,S(*op)(S,S),S(*e)()>
 struct segtree_dynamic{
     long long min,max;

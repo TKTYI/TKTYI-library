@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/number_theory/totient_sum.hpp
 mint totient_sum(long long N){
     if(N==1)return 1;
     if(N==2)return 2;

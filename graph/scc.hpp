@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/graph/scc.hpp
 vector<vector<int>>scc(vector<vector<int>>E){
     int N=E.size();
     vector<bool>seen(N);

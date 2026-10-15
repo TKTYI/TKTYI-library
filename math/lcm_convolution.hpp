@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/lcm_convolution.hpp
 template<typename T>
 vector<T>lcm_convolution(vector<T>A,vector<T>B){
     assert(A.size()==B.size());

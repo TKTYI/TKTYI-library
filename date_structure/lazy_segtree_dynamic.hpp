@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/date_structure/lazy_segtree_dynamic.hpp
 struct lazy_segtree_dynamic{
     long long min,max;
     S val;

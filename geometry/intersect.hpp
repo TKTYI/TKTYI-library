@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/geometry/intersect.hpp
 template<typename T>
 bool intersect(T x1,T y1,T x2,T y2,T x3,T y3,T x4,T y4){
     T dx1=x2-x1,dy1=y2-y1,dx2=x4-x3,dy2=y4-y3;

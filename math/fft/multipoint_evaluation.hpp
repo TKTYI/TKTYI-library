@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/fft/multipoint_evaluation.hpp
 template<typename T>
 vector<T>inv(const vector<T>&f){
     assert(f[0].val());

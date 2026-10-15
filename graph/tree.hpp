@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/graph/tree.hpp
 template<typename T=int>
 struct tree{
     private:

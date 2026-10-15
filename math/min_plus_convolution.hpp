@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/min_plus_convolution.hpp
 template<typename T>
 vector<T>min_plus_convolution(vector<T>&a,vector<T>&b){
   if(a.size()==0)return b;

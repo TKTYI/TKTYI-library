@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/graph/dsu.hpp
 struct dsu{
     private:
     vector<int>parent;

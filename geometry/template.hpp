@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/geometry/template.hpp
 #include<utility>
 template<typename T>
 struct point{

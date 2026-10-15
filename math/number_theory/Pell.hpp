@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/number_theory/Pell.hpp
 __int128 mysq(__int128 N){
   __int128 n=sqrtl(N);
   while(n*n>N)n--;

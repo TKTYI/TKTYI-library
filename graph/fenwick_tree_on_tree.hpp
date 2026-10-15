@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/graph/fenwick_tree_on_tree.hpp
 template<typename T=long long>
 struct fenwick_tree_on_tree{
     private:

@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/fft/coeff_of_rational.hpp
 template<typename mint>
 mint coeff_of_rational(vector<mint>p,vector<mint>q,long long T){
   assert(sz(q)&&q[0].val());

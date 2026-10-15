@@ -1,3 +1,4 @@
+https://github.com/TKTYI/TKTYI-library/blob/main/math/fft/power_projection.hpp
 template<typename T>
 vector<T>inv(const vector<T>&f){
   vector<T>g{1/f[0]};

@@ -1,5 +1,4 @@
-#include<bits/stdc++.h>
-using namespace std;
+// https://github.com/TKTYI/TKTYI-library/blob/main/geometry/triangle.hpp
 template<typename T>
 struct triangle{
     complex<T>A,B,C;

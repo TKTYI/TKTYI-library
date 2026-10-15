@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/geometry/closest_pair.hpp
 template<typename T>
 long double dist(pair<T,T>p1,pair<T,T>p2){
     return dist(p1.first,p1.second,p2.first,p2.second);

@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/fast_zeta_transformation.hpp
 template<typename T>
 vector<T>fast_zeta_transformation(vector<T>A){
     int N=0;

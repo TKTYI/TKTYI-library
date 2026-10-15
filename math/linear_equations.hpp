@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/linear_equations.hpp
 template<typename T>
 pair<bool, vector<T>> solve_linear(vector<vector<T>> A, vector<T> b) {
   assert(!A.empty());

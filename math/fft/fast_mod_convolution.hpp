@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/fft/fast_mod_convolution.hpp
 vl fast_mod_convolution(vl&a,vl&b,ll mod){
   const ll m1=167772161,m2=469762049,m3=1224736769;
   const ll m1_inv_m2=inv_mod(m1,m2);

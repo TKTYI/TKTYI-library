@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/fft/number_theoretic_transformation.hpp
 typedef vector<ll> vl;
 #define rep(i,a,b) for(int i=(a);i<(b);i++)
 #define sz(a) (int)(a).size()

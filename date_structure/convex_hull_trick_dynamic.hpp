@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/date_structure/convex_hull_trick_dynamic.hpp
 template<typename T=long double,class comp=std::less<T>>
 struct convex_hull_trick_dynamic{
     // max

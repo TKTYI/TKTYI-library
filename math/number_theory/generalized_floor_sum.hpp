@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/number_theory/generalized_floor_sum.hpp
 tuple<__int128,__int128,__int128>generalized_floor_sum(__int128 N,__int128 M,__int128 A,__int128 B){
     //(0,1),(1,1),(0,2)
     assert(N>=0&&M>0&&A>=0&&B>=0);

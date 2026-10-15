@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/geometry/farthest.hpp
 // depend on convex_hull.hpp
 template<typename T>
 T area(pair<T,T>p1,pair<T,T>p2,pair<T,T>p3){

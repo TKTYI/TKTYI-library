@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/date_structure/Mo's_algorithm.hpp
 struct Mo{
   int N;
   vector<pair<int,int>>query;

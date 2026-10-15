@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/bigint.hpp
 struct bigint{
   bool neg;
   vector<int>d;

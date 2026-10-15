@@ -1,5 +1,5 @@
-#include<atcoder/dsu>
-using namespace atcoder;
+// https://github.com/TKTYI/TKTYI-library/blob/main/graph/edge_coloring_of_bipartite_graph.hpp
+// depend on dsu
 vector<int>edge_coloring_of_bipartite_graph(int L,int R,vector<pair<int,int>>E){
     vector<int>ldeg(L),rdeg(R);
     for(auto[a,b]:E)ldeg[a]++,rdeg[b]++;

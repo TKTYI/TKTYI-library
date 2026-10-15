@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/rational.hpp
 template<typename T>
 struct rational{
     private:

@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/number_theory/modint.hpp
 template<const long long int mod=998244353>
 struct modint{
     using mint=modint<mod>;

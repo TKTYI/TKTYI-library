@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/number_theory/multiplicative_prefix_sum.hpp
 struct multiplicative_prefix_sum{
     long long N;
     int sqrtN;

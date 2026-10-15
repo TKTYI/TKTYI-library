@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/date_structure/treap.hpp
 // PE680
 // 反転と sum i*A[i]
 mt19937_64 mt(512810410);

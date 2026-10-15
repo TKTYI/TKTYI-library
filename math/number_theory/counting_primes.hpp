@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/number_theory/counting_primes.hpp
 long long counting_primes(long long N){
     int sqrtN=sqrtl(N);
     vector<long long>Q;

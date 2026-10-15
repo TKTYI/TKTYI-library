@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/date_structure/segtree_2d_with_ACL.hpp
 template<class S,S(*op)(S,S),S(*e)()>
 struct segtree_2d_with_ACL{
     private:

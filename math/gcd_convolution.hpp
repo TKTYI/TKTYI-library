@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/math/gcd_convolution.hpp
 template<typename T>
 vector<T>gcd_convolution(vector<T>A,vector<T>B){
     assert(A.size()==B.size());

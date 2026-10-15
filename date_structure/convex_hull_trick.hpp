@@ -1,3 +1,4 @@
+// https://github.com/TKTYI/TKTYI-library/blob/main/date_structure/convex_hull_trick.hpp
 using ll = long long;
 using pt = pair<int, ll>;
 struct CH {

@@ -2,7 +2,7 @@
 template<typename T>
 struct BMBM{
   vector<T>Q,A;
-  hokan(vector<T>_A):A(_A){
+  BMBM(vector<T>_A):A(_A){
     int N=sz(A);
     Q={1};
     int L=0;
